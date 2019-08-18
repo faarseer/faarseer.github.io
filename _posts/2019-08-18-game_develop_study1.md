@@ -105,30 +105,30 @@ age = age +1;
 age++;
 ```
 ### script log
-MonoBehaviour{} <- 이게 클래스에서 선언되는데 이건 어떤 타입??
-public class $Name:MonoBehaviour{} 이것 자체가 클래스임.
-void Start(){} <- 게임 시작될 때 실행 <- method
-void Update(){} <- 매 프레임마다 실행 <- method
-log 를 확인하기 위해서.. Debug.Log(); 를 사용해보자.
+1. MonoBehaviour{} <- 이게 클래스에서 선언되는데 이건 어떤 타입??
+2. public class $Name:MonoBehaviour{} 이것 자체가 클래스임.
+3. void Start(){} <- 게임 시작될 때 실행 <- method
+4. void Update(){} <- 매 프레임마다 실행 <- method
+5. log 를 확인하기 위해서.. Debug.Log(); 를 사용해보자.
 
 ### class & method
-method 일반적으로 첫문자 대문자
-Start(), Updata() method는 유니티에서 특수하게 호출된다.
+1. method 일반적으로 첫문자 대문자
+2. Start(), Updata() method는 유니티에서 특수하게 호출된다.
 
 ### 멤버변수와 지역변수
-클래스 안에 정의된 변수를 멤버변수(member variable)
-메소드 안에서 정의된 변수를 지역변수(local variable)
+1. 클래스 안에 정의된 변수를 멤버변수(member variable)
+2. 메소드 안에서 정의된 변수를 지역변수(local variable)
 
 ### Transform position
-transform.position.x
-? 근데 메소드 안에서 변수 선언했는데 다른 메소드에서 호출이 되네..? 뭐야
+1. transform.position.x
+2. ? 근데 메소드 안에서 변수 선언했는데 다른 메소드에서 호출이 되네..? 뭐야
 
 ### GetComponent 
-Rigidbody $varname = Getcomponent<Rigidbody>();
-왜 Rigidbody 는 이렇게 선언하는가?? transform 은 그냥 바로 불렀는데..
-Rigidbody.useGravity()
-그냥 얘가 연습하느라 그렇게 함.
-근데 Rigidbody 라는 타입으로 선언을 해준거는 왜 그런걸까 transform 은 선언해준게 없는뎅
+1. Rigidbody $varname = Getcomponent<Rigidbody>();
+2. 왜 Rigidbody 는 이렇게 선언하는가?? transform 은 그냥 바로 불렀는데..
+3. Rigidbody.useGravity()
+4. 그냥 얘가 연습하느라 그렇게 함.
+5. 근데 Rigidbody 라는 타입으로 선언을 해준거는 왜 그런걸까 transform 은 선언해준게 없는뎅
 
 ### Game Object 가져오기
 
