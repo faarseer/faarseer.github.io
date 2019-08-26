@@ -25,17 +25,17 @@ url                      : "https://faarseer/github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 header:
-    image: /assets/images/TheOrderOfTime3.png
+    image: "assets/images/TheOrderOfTime3.png"
     image_descirption: ""
 teaser                   : "/assets/images/TheOrderOfTime.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/test.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "ARORO" # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "Masthead" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "faarseer" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -68,9 +68,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -112,8 +112,8 @@ analytics:
 author:
   name             : "faarseer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "interested in Bio, DeepLearning, Protein folding, Game_Develop"
-  location         : "Seoul day:Gwanak \n night:Hoegi"
+  bio              : "interested in Biology, DeepLearning, Protein Folding, Game_Develop"
+  location         : "Seoul day:Gwanak\n night:Hoegi"
   email            : "everforeseeing@gmail.com"
   links:
     - label: "Email"
