@@ -24,6 +24,9 @@ description              : "daliy life"
 url                      : "https://faarseer/github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+header:
+    image: /assets/images/TheOrderOfTime3.png
+    image_descirption: ""
 teaser                   : "/assets/images/TheOrderOfTime.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/test.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "ARORO" # overrides the website title displayed in the masthead, use " " for no title
