@@ -280,7 +280,6 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
@@ -294,3 +293,17 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+	  type: pages
+    values: 
+	  layout: single
+
+  # _collections
+  - scope:
+      path:
+	  type: collections
+    values:
+	  layout: single
