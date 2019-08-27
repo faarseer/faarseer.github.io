@@ -1,7 +1,6 @@
 ---
 
 title: "가속기 프로그래밍 정리"
-date: 2019-08-25 22:30 ~ 24:00
 toc: true
 toc_sticky: true
 header:
