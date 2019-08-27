@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "청년 치매같은 나의 뇌 백업"
+title                    : "청년 치매에 걸린 나의 저장소"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "faarseer"
