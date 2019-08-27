@@ -1,5 +1,5 @@
 ---
-title: "unity 기초에 대해"
+title: "unity c sharp 스크립트 구조"
 date: 2019-08-18 12:30 ~ 17:00
 categories: game develop
 ---
