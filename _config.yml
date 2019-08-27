@@ -282,20 +282,8 @@ compress_html:
 
 # collections
 collections:
-  is501:
-    output: false
-    permalink: /:collection/:path/
-  is452:
-    output: false
-    permalink: /:collection/:path/
-  is490db:
-    output: false
-    permalink: /:collection/:path/
-  phil103:
-    output: false
-    permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: 
 	permalink: /:collection/:path/
 
 # Defaults

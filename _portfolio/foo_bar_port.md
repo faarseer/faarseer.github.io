@@ -1,5 +1,6 @@
 ---
 title: "Foo Bar Identity"
+layout: single
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /_assets/images/TheOrderOfTime.png
