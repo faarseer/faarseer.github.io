@@ -1,1 +1,20 @@
+---
+
+layout: archive
+excerpt: "This post would display a **header with an overlay**" 
+header:
+  overlay_image: /assets/images/test2.png
+  overlay_filter: 0.5
+
+---
+
 {% include figure image_path="/assets/images/test2.png" caption="This is placeholder image in index.html page.." %}
+			 {{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
