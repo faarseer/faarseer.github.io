@@ -1,7 +1,21 @@
 ---
+
 title: "가속기 프로그래밍 정리"
 date: 2019-08-25 22:30 ~ 24:00
-categories: programming gpu
+toc: true
+toc_sticky: true
+header:
+  teaser: /assets/images/TheOrderOfTime.png
+categories: 
+  - GPU
+  - programming
+  - OpenCL
+tags:
+  - OpenCL
+  - programming
+  - GPU
+last_modified_at: 2019-08-27 12:00
+
 ---
 
 # 2019 accelerator programming summer school

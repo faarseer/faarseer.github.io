@@ -1,7 +1,18 @@
 ---
+
 title: "unity c sharp 스크립트 구조"
-date: 2019-08-18 12:30 ~ 17:00
-categories: game develop
+toc: true
+toc_sticky: true
+header:
+  teaser: /assets/images/TheOrderOfTime.png
+categories: 
+  - game
+  - develop
+tags:
+  - game
+  - devleop
+last_modified_at: 2019-08-27 12:00
+
 ---
 
 # 2019.08.25 
