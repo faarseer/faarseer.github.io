@@ -1,3 +1,9 @@
+---
+title: "unity 기초에 대해"
+date: 2019-08-18 12:30 ~ 17:00
+categories: game develop
+---
+
 # 2019.08.25 
 ## csharp
 
