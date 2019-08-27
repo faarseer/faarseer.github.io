@@ -1,6 +1,6 @@
 ---
 
-title: "unity 기초에 대해"
+title: "pytorch의 data와 sequence padding을 정리해보자."
 toc: true
 toc_sticky: true
 header:
