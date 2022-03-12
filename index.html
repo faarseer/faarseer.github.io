@@ -1,5 +1,17 @@
 ---
-layout: home
-author_profile: true
+layout: default
 ---
-{% include figure image_path="/assets/images/TheOrderOfTime3.png" caption="Welcome to my blog" %}
+
+{% include hero.html %}
+
+<div class="container">
+  <div class="row animate">
+    {% if site.posts.size > 0 %}
+      {% for post in paginator.posts %}
+        {% include article-content.html %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+{% include pagination.html %}
