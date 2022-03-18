@@ -1,26 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: Joseph Lawrence
+title: 1일 1업데이트
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Joseph is a super minimal content focus theme for Jekyll.
+description: #Joseph is a super minimal content focus theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Joseph Lawrence
-  bio: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  name: Jeon Sewoong
+  bio: 1일 1업데이트를 목표로.
   avatar: '/images/01.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
-
+- {icon: "ion ion-logo-github", label: Github, link: "https://github.com/faarseer"}
+#- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+#- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+#- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
