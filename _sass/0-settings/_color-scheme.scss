@@ -1,6 +1,6 @@
 /* Color Scheme */
 
-:root {
+:root[dark] {
   --brand-color: #533feb;
   --white: #fff;
   --light-gray: #f0f0f0;
@@ -31,7 +31,7 @@
   --syntax-highlighting-background: #f3f3f3;
 }
 
-:root[dark] {
+:root {
   --brand-color: #533feb;
   --white: #fff;
   --light-gray: #f0f0f0;

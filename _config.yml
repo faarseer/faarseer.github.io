@@ -45,7 +45,7 @@ mailchimp__button__text: Join # Add your button text
 # Contact Settings
 contact:
   email: everforeseeing@gmail.com
-  description: contact \n 콘택트
+  description:
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -53,7 +53,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: sewoong # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: faarseer # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
