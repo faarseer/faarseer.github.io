@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
-title: Sewoong`s Memo log
+title: Farseers Devlogs
 logo: # You can add own logo. For example '/images/logo.png'.
-description: memo everything.
-baseurl: "faarseer/github.io/home"
+description: here is farseers devlogs.
+baseurl: ""
 url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jeon Sewoong
+  name: Farseer
   bio: 1일 1업데이트를 목표로.
   avatar: '/images/01.jpg'
 
@@ -27,8 +27,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: C#. Python. Unity. DeepLearning.
-  hero__description: I'm a CEO & programmer. I make games using Unity, AI using Python.
+  hero__title: C# Python Unity DeepLearning Game-Develop
+  hero__description: Programmer CEO
   hero__image: '/images/01.jpg'
 
 
