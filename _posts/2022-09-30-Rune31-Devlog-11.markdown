@@ -1,0 +1,6 @@
+---
+layout:post
+title: Rune31 DevLog 11
+date: 2022-09-30 17:49:16 +0900
+tags: [Devlog, Character, Design, Modeling]
+---

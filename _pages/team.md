@@ -6,17 +6,17 @@ image: '/images/01-1.jpg'
 ---
 
 > Game Design
-> JeonSewoong
-> ParkJunSug
+JeonSewoong
+ParkJunSug
 
 > GameProgramming
-> JeonSewoong
+JeonSewoong
 
 > Art
-> ParkJunSug
+ParkJunSug
 
 > Music and SFX
-> ParkJunSug
+ParkJunSug
 
 > Support
 
