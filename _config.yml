@@ -11,7 +11,7 @@ url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for you
 author:
   name: Farseers
   bio: Update DevLogs
-  avatar: '/images/LogoWhite.png'
+  avatar: '/images/LogoFitWhite.png'
 
 social:
 - {icon: "ion ion-logo-github", label: Github, link: "https://github.com/faarseer"}
@@ -30,7 +30,7 @@ social:
 hero:
   hero__title: FARSEERS DEVBlOG
   hero__description: Unity GameDevelop
-  hero__image: '/images/LogoWhiteTP.png'
+  hero__image: '/images/LogoFitWhiteTP.png'
 
 
 #-------------------------------
