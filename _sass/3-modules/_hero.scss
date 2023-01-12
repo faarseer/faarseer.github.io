@@ -28,12 +28,12 @@
     position: relative;
     z-index: 10;
     width: 380px;
-    height: 480px;
+    height: 250px;
     margin: 0 auto;
     border-radius: 2px;
     overflow: hidden;
     user-select: none;
-    background: var(--text-color);
+    background: var(--dark);
     box-shadow: 10px 10px 0 var(--heading-font-color);
 
     img {

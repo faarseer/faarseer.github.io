@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Farseers Devlogs
-logo: /images/LogoWhite.png
+logo: /images/LogoFitWhite.png
 description: here is farseers devBlog.
 baseurl: ""
 url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for you
 author:
   name: Farseers
   bio: Update DevLogs
-  avatar: '/images/LogoFitWhite.png'
+  avatar: '/images/LogoWhite.png'
 
 social:
 - {icon: "ion ion-logo-github", label: Github, link: "https://github.com/faarseer"}
