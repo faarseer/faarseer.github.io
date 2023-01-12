@@ -9,7 +9,7 @@ url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for you
 #-------------------------------
 # Author Settings
 author:
-  name: Farseer
+  name: Farseers
   bio: 1일 1업데이트를 목표로.
   avatar: '/images/01.jpg'
 
@@ -18,6 +18,7 @@ social:
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-discord", label : Discodd, link:""}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 #- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
 #- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
@@ -27,8 +28,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: C# Python Unity DeepLearning Game-Develop
-  hero__description: Programmer CEO
+  hero__title: FARSEERS DEVBlOG
+  hero__description: Unity GameDevelop
   hero__image: '/images/01.jpg'
 
 
@@ -43,9 +44,9 @@ mailchimp__button__text: Join # Add your button text
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: everforeseeing@gmail.com
-  description:
+contact: +821075579074
+  email: 31futhark@gmail.com
+  description: Farseers Game Studio
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -53,7 +54,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: faarseer # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: farseers # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
@@ -89,5 +90,6 @@ tag_page_layout:      tag_page
 tag_permalink_style:  /:title
 
 sass:
-  sass_dir: _sass
+  sass_dir: _sas
+
   style: compressed
