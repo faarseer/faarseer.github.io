@@ -2,7 +2,7 @@
 # General Site Settings
 title: Farseers Devlogs
 logo: # You can add own logo. For example '/images/logo.png'.
-description: here is farseers devlogs.
+description: here is farseers devBlog.
 baseurl: ""
 url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,7 +10,7 @@ url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for you
 # Author Settings
 author:
   name: Farseers
-  bio: 1일 1업데이트를 목표로.
+  bio: Update DevLogs
   avatar: '/images/01.jpg'
 
 social:
@@ -90,6 +90,6 @@ tag_page_layout:      tag_page
 tag_permalink_style:  /:title
 
 sass:
-  sass_dir: _sas
+  sass_dir: _sass
 
   style: compressed
