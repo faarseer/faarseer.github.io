@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Farseers Devlogs
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: /images/LogoWhite.png
 description: here is farseers devBlog.
 baseurl: ""
 url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,14 +11,14 @@ url: #"https://joseph-jekyll.netlify.app" # the base hostname & protocol for you
 author:
   name: Farseers
   bio: Update DevLogs
-  avatar: '/images/01.jpg'
+  avatar: '/images/LogoWhite.png'
 
 social:
 - {icon: "ion ion-logo-github", label: Github, link: "https://github.com/faarseer"}
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-discord", label : Discodd, link:""}
+- {icon: "ion-logo-discord", label : Discord, link:""}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
 #- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
 #- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
@@ -30,7 +30,7 @@ social:
 hero:
   hero__title: FARSEERS DEVBlOG
   hero__description: Unity GameDevelop
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/LogoWhiteTP.png'
 
 
 #-------------------------------
