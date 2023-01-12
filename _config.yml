@@ -45,8 +45,8 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact: +821075579074
-  email: 31futhark@gmail.com
-  description: Farseers Game Studio
+email: 31futhark@gmail.com
+description: Farseers Game Studio
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
