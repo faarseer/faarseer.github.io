@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 02
+description:
 date: 2021-11-26 17:37:12 +0900
+image:
 tags: [Devlog, UI]
 ---
+02

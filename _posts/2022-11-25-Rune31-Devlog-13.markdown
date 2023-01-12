@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 13
+description:
 date: 2022-11-25 17:52:17 +0900
+image:
 tags: [Devlog, InGame]
 ---
+13

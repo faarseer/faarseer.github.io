@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 09
+description:
 date: 2022-06-24 17:58:27 +0900
+image:
 tags: [Devlog, Shop, Rune, Relic, UI]
 ---
+09

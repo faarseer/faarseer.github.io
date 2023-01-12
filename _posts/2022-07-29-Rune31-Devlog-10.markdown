@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 10
+description:
 date: 2022-07-29 17:32:05 +0900
+image:
 tags: [Devlog, Dungeon]
 ---
+10

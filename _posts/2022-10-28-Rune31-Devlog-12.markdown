@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 12
+description:
 date: 2022-10-28 17:55:12 +0900
+image:
 tags: [Devlog, Character, Custom, UI]
 ---
+12

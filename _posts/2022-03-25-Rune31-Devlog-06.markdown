@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 06
+description:
 date: 2022-03-25 17:39:21 +0900
+image:
 tags: [Devlog, Monster, Boss]
 ---
+06

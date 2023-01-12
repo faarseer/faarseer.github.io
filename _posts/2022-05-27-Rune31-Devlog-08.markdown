@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 08
+description:
 date: 2022-05-27 17:43:42 +0900
+image:
 tags: [Devlog, Monster, Elite]
 ---
+08

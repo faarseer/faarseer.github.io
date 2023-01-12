@@ -1,6 +1,9 @@
 ---
-layout:post
+layout: post
 title: Rune31 DevLog 15
+description:
 date: 2023-01-23 17:57:21 +0900
+image:
 tags: [Devlog, Rendering, Shader, UnityChan]
 ---
+15
