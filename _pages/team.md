@@ -2,24 +2,29 @@
 layout: page
 title: Team
 permalink: /team/
-image: '/images/01-1.jpg'
+image:
 ---
 
 > Game Design
 
 JeonSewoong
+
 ParkJunSug
 
-> GameProgramming
+
+> Game Programming
 
 JeonSewoong
 
-> Art
+
+> Graphic Design
 
 ParkJunSug
+
 
 > Music and SFX
 
 ParkJunSug
+
 
 > Support
