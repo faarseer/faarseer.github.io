@@ -4,6 +4,7 @@ title: Rune31 DevLog 11
 description:
 date: 2022-09-30 17:49:16 +0900
 image:
-tags: [Devlog, Character, Design, Modeling]
+tags: [DevLog, Character, Design, Modeling]
 ---
-11
+안녕 이번 데브로그는 캐릭터 모델링과 스킨에 관한 내용입니다.
+현재 스킨은 ~종류가있고 무기의경우 한손무기 양손무기 , 왼쪽손에는 방패와 한손검이 있습니다.

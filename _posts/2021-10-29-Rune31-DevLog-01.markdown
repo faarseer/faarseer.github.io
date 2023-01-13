@@ -4,6 +4,8 @@ title: Rune31 DevLog 01
 description:
 date: 2021-10-29 17:23:30 +0900
 image:
-tags: [Devlog, Dungeon]
+tags: [DevLog, Dungeon]
 ---
-01
+안녕하세요, 이번 DevLog는 Dungeon Archtect를 이용한 던전 루트와 던전 테마에 관한 내용입니다.
+던전 테마는 Fire Earth Water Steel Nature Ice 여섯 가지의 속성으로 이루어져있으며 각 테마마다 나오는 몬스터의 종류와 속성이 다르기떄문에 이점을 생각해서 플레이해야합니다.
+던전루트는 스폰에서 출발하여 다음층으로 넘어가는 골포인트까지 도달하는 Explore 맵과 스폰포인트( 방어 지점)을 지켜내야하는 Defence맵 두 종류가 있습니다.

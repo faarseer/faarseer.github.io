@@ -4,6 +4,8 @@ title: Rune31 DevLog 08
 description:
 date: 2022-05-27 17:43:42 +0900
 image:
-tags: [Devlog, Monster, Elite]
+tags: [DevLog, Monster, Relic]
 ---
-08
+안녕 이번 데브로그는 렐릭과 룬 이미지 관련 내용입니다.
+렐릭의 티어 룬의 레벨별로 프레임을 각자 적용하여 플레이어가 한눈에 파악하기 용이하게 하였습니다.
+인게임내 ui에서 현재 착용중인 forme룬과 마법에 PS를 적용했습니다.

@@ -4,6 +4,8 @@ title: Rune31 DevLog 15
 description:
 date: 2023-01-23 17:57:21 +0900
 image:
-tags: [Devlog, Rendering, Shader, UnityChan]
+tags: [DevLog, Rendering, Shader, UnityChan]
 ---
-15
+안녕 이번 데브로그는 툰 셰이더에 관한 내용입니다.
+저번 로그에서 리얼타임의 메모리를 해결하기위해 만든 가짜그림자를 적용시켰습니다.
+가짜 그림자가 가진 단점을 보완하기 위해 툰 셰이더를 적용하여 셀프그림자, 깔끔한 윤곽선과 그에 최적화된 메쉬를 적용시켰습니다.

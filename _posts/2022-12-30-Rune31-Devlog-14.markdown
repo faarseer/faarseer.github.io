@@ -4,6 +4,8 @@ title: Rune31 DevLog 14
 description:
 date: 2022-12-30 17:46:33 +0900
 image:
-tags: [Devlog, Rendering, PostProcess, Shadow]
+tags: [DevLog, Rendering, PostProcess, Shadow]
 ---
-14
+안녕하세요 이번 데브로그는 그림자에 관한 최적화 내용입니다.
+모바일 환경에서 directional light를 이용해 리얼타임 새도우를 쓰는것은 메모리 적인 측면에서 비효율적이라고 판단되어 forward renderer에 sharder graph를 이용한 메테리얼을 입히는것으로 가짜 그림자를 만들어 적용시켰습니다.
+또한 빛으로 낼수있는 효과를 보완하기위해 각각 속성의 던전별로 포스트프로세스볼륨과 DL을 따로만들어 적용시켰습니다.

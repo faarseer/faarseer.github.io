@@ -4,6 +4,7 @@ title: Rune31 DevLog 13
 description:
 date: 2022-11-25 17:52:17 +0900
 image:
-tags: [Devlog, InGame]
+tags: [DevLog, InGame]
 ---
-13
+안녕 이번 데브로그는 인게임내 최적화의 관한 내용입니다.
+파티클 시스템에 사용된 메테리얼들의 렌더순서, 던전을 구성하는 매시 프리팹들의 스태틱 배칭을 이용해 배치수를 줄이는 최적화를 진행하였습니다.
